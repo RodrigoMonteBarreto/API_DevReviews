@@ -9,8 +9,6 @@
 - Injeção de Dependência
 - Programação Orientada a Objetos
 - Padrão Repository
-- Logs com Serilog
-- Publicação na nuvem com Azure App Service
 
 ## Funcionalidades
 - Cadastro, Listagem, Detalhes, Atualização e Remoção de Produto.
